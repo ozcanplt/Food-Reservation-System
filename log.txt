@@ -1,0 +1,157 @@
+[Fri Aug 09 11:38:57 2024] No current orders at: ClosedOrders.txt
+[Fri Aug 09 11:41:01 2024] No current orders at: ClosedOrders.txt
+[Fri Aug 09 11:42:27 2024] No current orders at: ClosedOrders.txt
+[Fri Aug 09 11:42:27 2024] Table created succesfully: 00001
+[Fri Aug 09 11:42:27 2024] Table created succesfully: 00002
+[Fri Aug 09 11:42:27 2024] Table already exists: 00001
+[Fri Aug 09 11:42:27 2024] Table removed: 12345
+[Fri Aug 09 11:42:27 2024] Table not found: 12346
+[Fri Aug 09 11:42:27 2024] Show Invoices End: 
+[Fri Aug 09 12:53:33 2024] No current orders at: ClosedOrders.txt
+[Fri Aug 09 12:53:33 2024] Table already exists: 00001
+[Fri Aug 09 12:53:33 2024] Table already exists: 00002
+[Fri Aug 09 12:53:33 2024] Table already exists: 00001
+[Fri Aug 09 12:53:33 2024] Table not found: 12345
+[Fri Aug 09 12:53:33 2024] Table not found: 12346
+[Fri Aug 09 12:53:33 2024] Show Invoices End: 
+[Fri Aug 09 13:01:36 2024] Foods have been created: 
+[Fri Aug 09 13:01:36 2024] No current orders at: ClosedOrders.txt
+[Fri Aug 09 13:01:36 2024] Table already exists: 00001
+[Fri Aug 09 13:01:36 2024] Table already exists: 00002
+[Fri Aug 09 13:01:36 2024] Table already exists: 00001
+[Fri Aug 09 13:01:36 2024] Table not found: 12345
+[Fri Aug 09 13:01:36 2024] Table not found: 12346
+[Fri Aug 09 13:01:36 2024] Show Invoices End: 
+[Fri Aug 09 13:02:38 2024] Foods have been created: 
+[Fri Aug 09 13:02:39 2024] Foods have been created: 
+[Fri Aug 09 13:02:40 2024] Foods have been created: 
+[Fri Aug 09 13:02:40 2024] Foods have been created: 
+[Fri Aug 09 13:02:41 2024] Foods have been created: 
+[Sun Aug 11 10:19:54 2024] Food updated: Food ID: 1001
+[Sun Aug 11 10:30:58 2024] Food updated: Food ID: 1001
+[Sun Aug 11 10:39:43 2024] Order written to the Orders.txt: 00001
+[Sun Aug 11 10:39:52 2024] Error at writing to Orders.txt: 
+[Sun Aug 11 10:39:53 2024] Error at writing to Orders.txt: 
+[Sun Aug 11 10:39:58 2024] Error at writing to Orders.txt: 
+[Sun Aug 11 10:40:30 2024] Order written to the Orders.txt: 00001
+[Sun Aug 11 10:42:52 2024] Show Invoices End: 
+[Sun Aug 11 10:43:26 2024] Bill Paid: 00001
+[Sun Aug 11 10:43:30 2024] Show Invoices End: 
+[Sun Aug 11 10:44:20 2024] Show Invoices End: 
+[Sun Aug 11 10:46:25 2024] Bill Paid: 00001
+[Sun Aug 11 10:48:43 2024] Bill Paid: 0.00
+[Sun Aug 11 10:49:24 2024] Bill Paid: $0.00
+[Sun Aug 11 10:53:11 2024] Order written to the Orders.txt: 00001
+[Sun Aug 11 10:57:28 2024] Bill Paid: $150.00
+[Sun Aug 11 11:03:22 2024] Order written to the Orders.txt: 00001
+[Sun Aug 11 11:03:24 2024] Order written to the Orders.txt: 00001
+[Sun Aug 11 11:03:28 2024] Order written to the Orders.txt: 00001
+[Sun Aug 11 11:05:10 2024] Order written to the Orders.txt: 00001
+[Sun Aug 11 11:05:13 2024] Order written to the Orders.txt: 00001
+[Sun Aug 11 11:05:21 2024] Order written to the Orders.txt: 00001
+[Sun Aug 11 11:05:29 2024] Order written to the Orders.txt: 00001
+[Sun Aug 11 11:05:46 2024] Error at writing to Orders.txt: 
+[Sun Aug 11 11:05:46 2024] Error at writing to Orders.txt: 
+[Sun Aug 11 11:05:46 2024] TakenOrders Cleared: 
+[Sun Aug 11 11:22:24 2024] Table created succesfully: 00003
+[Sun Aug 11 11:23:37 2024] Table removed: 00001
+[Sun Aug 11 11:23:50 2024] Show Invoices End: 
+[Sun Aug 11 11:23:59 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 11:24:31 2024] Show Invoices End: 
+[Sun Aug 11 12:10:13 2024] Table removed: 00002
+[Sun Aug 11 12:10:19 2024] Table removed: 00003
+[Sun Aug 11 12:11:53 2024] Table created succesfully: 12345
+[Sun Aug 11 12:12:43 2024] Bill Paid: $0.00
+[Sun Aug 11 12:14:22 2024] Order written to the Orders.txt: 12345
+[Sun Aug 11 12:14:22 2024] TakenOrders Cleared: 
+[Sun Aug 11 12:14:29 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 12:15:05 2024] Bill Paid: $0.00
+[Sun Aug 11 13:52:03 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 13:52:08 2024] Show Invoices End: 
+[Sun Aug 11 13:57:44 2024] Food updated: Food ID: 1000
+[Sun Aug 11 13:59:35 2024] Table created succesfully: 12346
+[Sun Aug 11 13:59:40 2024] Table created succesfully: 12347
+[Sun Aug 11 13:59:48 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 14:01:02 2024] Order written to the Orders.txt: 12346
+[Sun Aug 11 14:01:02 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:01:39 2024] Bill Paid: $150.00
+[Sun Aug 11 14:02:50 2024] Bill Paid: $0.00
+[Sun Aug 11 14:04:56 2024] Table created succesfully: 25
+[Sun Aug 11 14:06:16 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:06:19 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 14:07:36 2024] Order written to the Orders.txt: 12346
+[Sun Aug 11 14:07:36 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:08:11 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 14:08:55 2024] Order written to the Orders.txt: 12346
+[Sun Aug 11 14:08:55 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:09:42 2024] Order written to the Orders.txt: 12346
+[Sun Aug 11 14:09:42 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:09:45 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 14:11:22 2024] Order written to the Orders.txt: 12346
+[Sun Aug 11 14:11:22 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:12:09 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:15:59 2024] Bill Paid: $39240.00
+[Sun Aug 11 14:50:26 2024] Table created succesfully: 111
+[Sun Aug 11 14:50:54 2024] Order written to the Orders.txt: 111
+[Sun Aug 11 14:50:54 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:52:14 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:53:39 2024] Order written to the Orders.txt: 111
+[Sun Aug 11 14:53:39 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:53:52 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 14:55:02 2024] Bill Paid: $150.00
+[Sun Aug 11 14:59:04 2024] Order written to the Orders.txt: 12347
+[Sun Aug 11 14:59:04 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:59:31 2024] Order written to the Orders.txt: 12347
+[Sun Aug 11 14:59:31 2024] TakenOrders Cleared: 
+[Sun Aug 11 14:59:44 2024] Bill Paid: $460.00
+[Sun Aug 11 15:01:59 2024] Order written to the Orders.txt: 12345
+[Sun Aug 11 15:01:59 2024] TakenOrders Cleared: 
+[Sun Aug 11 15:02:21 2024] Order written to the Orders.txt: 12345
+[Sun Aug 11 15:02:21 2024] TakenOrders Cleared: 
+[Sun Aug 11 15:03:08 2024] Bill Paid: $240.00
+[Sun Aug 11 15:03:49 2024] Show Invoices End: 
+[Sun Aug 11 15:12:25 2024] Table created succesfully: 3
+[Sun Aug 11 15:13:49 2024] Order written to the Orders.txt: 3
+[Sun Aug 11 15:13:49 2024] TakenOrders Cleared: 
+[Sun Aug 11 15:14:10 2024] Bill Paid: $0.00
+[Sun Aug 11 15:15:07 2024] Order written to the Orders.txt: 3
+[Sun Aug 11 15:15:07 2024] TakenOrders Cleared: 
+[Sun Aug 11 15:15:09 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 15:15:58 2024] Show Invoices End: 
+[Sun Aug 11 15:16:20 2024] Table removed: 3
+[Sun Aug 11 15:16:51 2024] Table created succesfully: Burka
+[Sun Aug 11 15:17:05 2024] Table created succesfully: g”tburka
+[Sun Aug 11 15:17:19 2024] Table removed: g”tburka
+[Sun Aug 11 15:19:21 2024] Table created succesfully: emre
+[Sun Aug 11 15:20:28 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 15:21:00 2024] Order written to the Orders.txt: emre
+[Sun Aug 11 15:21:00 2024] TakenOrders Cleared: 
+[Sun Aug 11 15:21:25 2024] Order written to the Orders.txt: emre
+[Sun Aug 11 15:21:25 2024] TakenOrders Cleared: 
+[Sun Aug 11 16:13:42 2024] Table created succesfully: ali01
+[Sun Aug 11 16:17:06 2024] Bill Paid: $0.00
+[Sun Aug 11 16:17:45 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 16:18:40 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 16:20:02 2024] Order written to the Orders.txt: ali01
+[Sun Aug 11 16:20:02 2024] TakenOrders Cleared: 
+[Sun Aug 11 16:20:50 2024] Order written to the Orders.txt: ali01
+[Sun Aug 11 16:20:50 2024] TakenOrders Cleared: 
+[Sun Aug 11 16:21:37 2024] Order written to the Orders.txt: ali01
+[Sun Aug 11 16:21:37 2024] TakenOrders Cleared: 
+[Sun Aug 11 16:21:45 2024] No current orders at: ClosedOrders.txt
+[Sun Aug 11 16:22:17 2024] Bill Paid: $365072220160.00
+[Sun Aug 11 16:23:21 2024] Order written to the Orders.txt: ali01
+[Sun Aug 11 16:23:21 2024] TakenOrders Cleared: 
+[Sun Aug 11 16:23:56 2024] Table created succesfully: 15
+[Sun Aug 11 16:24:05 2024] Order written to the Orders.txt: ali01
+[Sun Aug 11 16:24:05 2024] TakenOrders Cleared: 
+[Sun Aug 11 16:24:20 2024] Order written to the Orders.txt: ali01
+[Sun Aug 11 16:24:20 2024] TakenOrders Cleared: 
+[Sun Aug 11 16:24:31 2024] Order written to the Orders.txt: ali01
+[Sun Aug 11 16:24:31 2024] TakenOrders Cleared: 
+[Sun Aug 11 16:25:00 2024] Bill Paid: $1030792151040.00
+[Sun Aug 11 16:34:59 2024] Table created succesfully: 155
+[Sun Aug 11 16:35:25 2024] Order written to the Orders.txt: 155
+[Sun Aug 11 16:35:25 2024] TakenOrders Cleared: 
+¸ó¿Ð[Sun Aug 11 16:35:36 2024] Bill Paid: $360.00
+Ø÷_@R[Sun Aug 11 16:35:52 2024] Table removed: 155
